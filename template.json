@@ -5,7 +5,7 @@
   "owner": "prism-studio",
   "slug": "visual-art-g-gallery",
   "website": "https://motiongit.com/@prism-studio/visual-art-g-gallery",
-  "version": "2.6.5-alpha.1",
+  "version": "2.6.5-alpha.2",
   "technical": {
     "en": [
       "Declared runtime profile: html-canvas/1.",

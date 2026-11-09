@@ -4,7 +4,7 @@
 
 Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.5-alpha.1** · [@prism-studio](https://motiongit.com/@prism-studio) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.5-alpha.2** · [@prism-studio](https://motiongit.com/@prism-studio) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@prism-studio/visual-art-g-gallery)**
 https://motiongit.com/@prism-studio/visual-art-g-gallery
