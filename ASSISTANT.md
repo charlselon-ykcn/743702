@@ -4,7 +4,7 @@ Travel through a dimensional photo gallery with captions, then move into the mai
 
 Template & full download: https://motiongit.com/@prism-studio/visual-art-g-gallery
 Version: 2.6.5-alpha.2
-Demo available; template download coming soon.
+Demo available. Check the official page for current download availability.
 
 ## Technical reference
 

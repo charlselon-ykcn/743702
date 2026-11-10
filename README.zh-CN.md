@@ -11,7 +11,7 @@ Motion 模板现已接入背景音乐、贴纸、图片和视频等素材接口�
 **[官网下载 .motion](https://motiongit.com/@prism-studio/visual-art-g-gallery)**
 https://motiongit.com/@prism-studio/visual-art-g-gallery
 
-Demo 已公开，模板下载即将开放。
+Demo 已公开，下载开放状态以官网为准。
 
 ## Demo
 
