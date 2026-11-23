@@ -3,7 +3,7 @@
 Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title.
 
 Template & full download: https://motiongit.com/@prism-studio/visual-art-g-gallery
-Version: 2.6.5-alpha.3
+Version: 2.6.5-alpha.4
 Demo available. Check the official page for current download availability.
 
 ## Technical reference
@@ -17,7 +17,7 @@ Demo available. Check the official page for current download availability.
 
 ## Inputs
 
-- **Required:** Your photos and a title for this work. At least 12 photos. At most 128 photos.
+- **Required:** Your photos and a title for this work. At least 1 photos. At most 128 photos.
 - **Optional:** A licensed music track or your preference for music in this production.
 - **Optional:** The current voice recording or your narration preference for this production.
 

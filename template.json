@@ -5,7 +5,7 @@
   "owner": "prism-studio",
   "slug": "visual-art-g-gallery",
   "website": "https://motiongit.com/@prism-studio/visual-art-g-gallery",
-  "version": "2.6.5-alpha.3",
+  "version": "2.6.5-alpha.4",
   "technical": {
     "en": [
       "Declared runtime profile: html-canvas/1.",
@@ -18,7 +18,7 @@
       "已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。"
     ]
   },
-  "checkedAt": "2026-11-17",
+  "checkedAt": "2026-11-23",
   "availability": "demo-only",
   "title": {
     "en": "Spatial Gallery · Photo Memories",
@@ -48,8 +48,8 @@
   },
   "materials": [
     {
-      "en": "Your photos and a title for this work. At least 12 photos. At most 128 photos.",
-      "zh": "这次要呈现的照片与作品标题。至少 12 张。最多 128 张。",
+      "en": "Your photos and a title for this work. At least 1 photos. At most 128 photos.",
+      "zh": "这次要呈现的照片与作品标题。至少 1 张。最多 128 张。",
       "required": true
     },
     {

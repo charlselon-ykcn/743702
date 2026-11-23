@@ -1,7 +1,7 @@
 # Spatial Gallery · Photo Memories · MotionGit .motion
 
 Template and full package: https://motiongit.com/@prism-studio/visual-art-g-gallery
-Version: 2.6.5-alpha.3
+Version: 2.6.5-alpha.4
 Demo available. Check the official page for current download availability.
 
 Declared runtime profile: html-canvas/1.
