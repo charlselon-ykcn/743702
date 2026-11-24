@@ -5,7 +5,7 @@
   "owner": "prism-studio",
   "slug": "visual-art-g-gallery",
   "website": "https://motiongit.com/@prism-studio/visual-art-g-gallery",
-  "version": "2.6.5-alpha.4",
+  "version": "2.6.5-alpha.5",
   "technical": {
     "en": [
       "Declared runtime profile: html-canvas/1.",
@@ -18,7 +18,7 @@
       "已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。"
     ]
   },
-  "checkedAt": "2026-11-23",
+  "checkedAt": "2026-11-24",
   "availability": "demo-only",
   "title": {
     "en": "Spatial Gallery · Photo Memories",

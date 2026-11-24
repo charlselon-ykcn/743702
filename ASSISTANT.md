@@ -3,7 +3,7 @@
 Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title.
 
 Template & full download: https://motiongit.com/@prism-studio/visual-art-g-gallery
-Version: 2.6.5-alpha.4
+Version: 2.6.5-alpha.5
 Demo available. Check the official page for current download availability.
 
 ## Technical reference

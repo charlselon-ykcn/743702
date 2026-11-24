@@ -3,7 +3,7 @@
 穿行带有文字说明的立体照片画廊，最后推进主照片并揭示全屏标题，适合回忆与作品集。
 
 模板与完整下载: https://motiongit.com/@prism-studio/visual-art-g-gallery
-版本: 2.6.5-alpha.4
+版本: 2.6.5-alpha.5
 Demo 已公开，下载开放状态以官网为准。
 
 ## 技术资料

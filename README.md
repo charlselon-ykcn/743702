@@ -4,7 +4,7 @@
 
 Travel through a dimensional photo gallery with captions, then move into the main image and a full-screen title.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.6.5-alpha.4** · [@prism-studio](https://motiongit.com/@prism-studio) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.6.5-alpha.5** · [@prism-studio](https://motiongit.com/@prism-studio) · [简体中文](README.zh-CN.md)
 
 Motion templates now support asset APIs for background music, stickers, images and video, with free options. Upgraded templates remain **100% free and open source**. Download the upgrade from the official MotionGit page below. MotionGit links API access to individual accounts to prevent abuse from bulk requests. See MotionGit for the scope of free API usage.
 
